@@ -1,5 +1,5 @@
 def say_hi 
-  prints "Hi!"
+  print "Hi!"
 end 
 
 def get_name 
